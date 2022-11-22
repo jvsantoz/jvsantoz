@@ -15,9 +15,11 @@
         <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     </div>
     <div style="display: inline_block"><br>
-        <h1>💻 Software e Ferramentas</h1>
+        <h1>💻 Software e Ferramentas:</h1>
     </div>
 </div>
+
+<div align="center">
 
 ![Blog](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Blog](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -25,6 +27,8 @@
 ![Blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+  
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
