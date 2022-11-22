@@ -1,12 +1,11 @@
 # Olá! Eu sou o João Vitor 👋
 
 <div align="center">
-
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jvsantoz&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvsantoz&show_icons=true&theme=dracula)](https://github.com/jvsantoz/github-readme-stats)
-
+  <a href="https://github.com/jvsantoz">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvsantoz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsantoz&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
-<br>
 
 <div align="center">
     <div style="display: inline_block"><br>
@@ -25,3 +24,9 @@
 ![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
